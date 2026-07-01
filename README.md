@@ -33,7 +33,7 @@
 * Buzzer       : Arduino D10 ------------> 圧電ブザー -> GND
 
 # 使用方法
- 本体の「KeyReader.h」ファイルとこの「README.md」をダウンロードしてください。
+ 「KeyReader.h」ファイルとこの「README.md」をダウンロードしてください。
 
 ```
 
