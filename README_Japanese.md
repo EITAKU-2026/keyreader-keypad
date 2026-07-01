@@ -38,5 +38,7 @@
  * FUNCTION.md：このライブラリが提供している関数の一覧
  * Example of useing.md:使い方を例示したサンプルプログラム
 
+**Created by EITAKU-2026 (2026)**
+
 ```
 
