@@ -47,8 +47,8 @@
 ## Package Contents
 * **KeyReader.h** : Main library header file
 * **README.md** : This documentation file
-* **FUNCTION.md** : List of functions provided by this library
-* **Example of useing.md** : Sample sketch demonstrating usage
+* **FUNCTION.md** : List of functions provided by this library (Please use this as a reference when using the library).
+* **Example of useing.md** : Sample sketch demonstrating usage (Please paste this into the Arduino IDE  to test and verify operations).
 
 ---
 
