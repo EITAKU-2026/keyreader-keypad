@@ -35,8 +35,8 @@
 # 付属品一覧
  * KeyReader.h：ライブラリ本体
  * README.md:この文章
- * FUNCTION.md：このライブラリが提供している関数の一覧
- * Example of useing.md:使い方を例示したサンプルプログラム
+ * FUNCTION.md：このライブラリが提供している関数の一覧(このライブラリを使うときの参考にしてください) 
+ * Example of useing.md:使い方を例示したサンプルプログラム(これをArduino IDEなどに張り付けて動作のテストにご使用ください。)
 
 **Created by EITAKU-2026 (2026)**
 
