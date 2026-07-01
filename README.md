@@ -32,8 +32,10 @@
 * ClearButton  : Arduino D12 ------------> クリアボタン (タクトスイッチ) -> GND
 * Buzzer       : Arduino D10 ------------> 圧電ブザー -> GND
 
-# 使用例
+# 使用方法
+ 本体の「KeyReader.h」ファイルとこの「README.md」をダウンロードしてください。
 
+# 使用例
 
 ```cpp
 #include <KeyReader.h> // <> で囲んで呼び出してください。
