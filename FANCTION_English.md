@@ -1,5 +1,5 @@
 ================================================================================
-■ KeyReader Library Function List (Reference)
+ ■ KeyReader Library Function List (Reference)
 ================================================================================
 
 [1. Setup Functions (Call inside setup() before begin())]
